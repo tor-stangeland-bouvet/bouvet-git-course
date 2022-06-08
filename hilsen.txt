@@ -4,3 +4,5 @@ La oss lære git sammen!
 Nå lærer vi om brancher!
 Nå har vi vært igjennom en merge-conflict!
 (Det var vel ikke så vanskelig?)
+
+Repoet deles nå på GitHub!
