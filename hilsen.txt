@@ -1,1 +1,2 @@
 Hei Bouvet!
+La oss lær git!
