@@ -1,4 +1,4 @@
 Hei Bouvet!
-La oss lære git!
+La oss lære git sammen!
 
 Nå lærer vi om brancher!
