@@ -1,5 +1,5 @@
 Hei Bouvet!
-La oss lære git sammen!
+La oss lære git sammen 💙
 
 Nå lærer vi om brancher!
 Nå har vi vært igjennom en merge-conflict!
