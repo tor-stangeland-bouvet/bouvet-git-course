@@ -2,3 +2,5 @@ Hei Bouvet!
 La oss lære git!
 
 Nå lærer vi om brancher!
+Nå har vi vært igjennom en merge-conflict!
+(Det var vel ikke så vanskelig?)
